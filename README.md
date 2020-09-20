@@ -7,6 +7,6 @@ adding more texts!
 
 more line of texts!
 
-# learniung branching
+# learning branching
 
 adding more texts to test it out
